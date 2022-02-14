@@ -1,2 +1,2 @@
-# dnsa
-Collection of DNSA solutions, toy problems
+# dsna
+Collection of DNSA solutions, toy problems, etc.
